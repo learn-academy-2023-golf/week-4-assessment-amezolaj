@@ -10,11 +10,11 @@ There are lots of ways to create a portfolio. It is common to rework your portfo
 
 It is time to decide on your tech stack. We recommend either HTML/CSS or React.
 
-List your chosen tech stack here:
+List your chosen tech stack here:React
 
 ### LinkedIn
 
-Your LinkedIn url:
+Your LinkedIn url:www.linkedin.com/in/jacob-amezola
 
 Check the boxes below to certify that you have completed the following items on LinkedIn:
 
